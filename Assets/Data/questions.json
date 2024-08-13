@@ -1,0 +1,234 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "title": "Who won the first free elections in USSR?",
+            "category": "history",
+            "answers": [
+                {
+                    "text": "Boris Yeltsin",
+                    "isRight": true
+                },
+                {
+                    "text": "Vladimir Putin",
+                    "isRight": false
+                },
+                {
+                    "text": "Andrei Gromyko",
+                    "isRight": false
+                },
+                {
+                    "text": "Joseph Stalin",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Where did Halloween originate?",
+            "category": "culture",
+            "answers": [
+                {
+                    "text": "Ireland",
+                    "isRight": true
+                },
+                {
+                    "text": "China",
+                    "isRight": false
+                },
+                {
+                    "text": "Indonesia",
+                    "isRight": false
+                },
+                {
+                    "text": "Australia",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "title": "Who invented the telephone?",
+            "category": "history",
+            "answers": [
+                {
+                    "text": "Alexander Bell",
+                    "isRight": true
+                },
+                {
+                    "text": "Benjamin Franklin",
+                    "isRight": false
+                },
+                {
+                    "text": "Elon Musk",
+                    "isRight": false
+                },
+                {
+                    "text": "Sergey Brin",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "title": "Where was Pablo Picasso born?",
+            "category": "history",
+            "answers": [
+                {
+                    "text": "Spain",
+                    "isRight": true
+                },
+                {
+                    "text": "Russia",
+                    "isRight": false
+                },
+                {
+                    "text": "Mongolia",
+                    "isRight": false
+                },
+                {
+                    "text": "Japan",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "title": "What is Saturn's largest moon?",
+            "category": "nature",
+            "answers": [
+                {
+                    "text": "Titan",
+                    "isRight": true
+                },
+                {
+                    "text": "Phobos",
+                    "isRight": false
+                },
+                {
+                    "text": "Europa",
+                    "isRight": false
+                },
+                {
+                    "text": "Rhea",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "title": "When did the Space Age begin?",
+            "category": "history",
+            "answers": [
+                {
+                    "text": "1957",
+                    "isRight": true
+                },
+                {
+                    "text": "2020",
+                    "isRight": false
+                },
+                {
+                    "text": "1887",
+                    "isRight": false
+                },
+                {
+                    "text": "2000",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "title": "Where is Real Madrid football club based?",
+            "category": "sport",
+            "answers": [
+                {
+                    "text": "Spain",
+                    "isRight": true
+                },
+                {
+                    "text": "Argentina",
+                    "isRight": false
+                },
+                {
+                    "text": "Portugal",
+                    "isRight": false
+                },
+                {
+                    "text": "Germany",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "title": "What is the name of this flower?",
+            "category": "nature",
+            "answers": [
+                {
+                    "text": "Chamomile",
+                    "isRight": true
+                },
+                {
+                    "text": "Rose",
+                    "isRight": false
+                },
+                {
+                    "text": "Tulip",
+                    "isRight": false
+                },
+                {
+                    "text": "Lily of the valley",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "title": "Where is the Kingdom of Swaziland located?",
+            "category": "earth",
+            "answers": [
+                {
+                    "text": "Africa",
+                    "isRight": true
+                },
+                {
+                    "text": "Europe",
+                    "isRight": false
+                },
+                {
+                    "text": "Asia",
+                    "isRight": false
+                },
+                {
+                    "text": "South America",
+                    "isRight": false
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "title": "Who was Pluto named after?",
+            "category": "nature",
+            "answers": [
+                {
+                    "text": "Roman god",
+                    "isRight": true
+                },
+                {
+                    "text": "Disney dog",
+                    "isRight": false
+                },
+                {
+                    "text": "Egyptian pharaoh",
+                    "isRight": false
+                },
+                {
+                    "text": "Greek village",
+                    "isRight": false
+                }
+            ]
+        }
+    ]
+}

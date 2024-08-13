@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6995055e-1ff4-44f1-95bd-d62b04f2e188" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Screens/QuestionScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Data/questions.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TilePool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Questions/Question.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/UnityEngineBridge/ReactiveCommand.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Screens/MapScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Runtime/InitializableManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../railway/Assets/Src/UI/Screens/MapScreen.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Screens/BaseScreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3B02D6F-9B49-4355-B946-095EA1F25C54/ea/cd720032/RuntimeMethodInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScreensFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ScoreService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3B02D6F-9B49-4355-B946-095EA1F25C54/77/e3932d96/Array.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScreensService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StartUp.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileCategory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.ugui@1.0.0/Runtime/EventSystem/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainInstaller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/ScoreWidget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Disposables/DisposableExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/A3B02D6F-9B49-4355-B946-095EA1F25C54/ea/ad6f0195/ValueTuple`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Questions/QuestionsData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/UniRx/Scripts/Observer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/B3935CB8-9439-4494-AC11-7685FB6E14C7/e8/778b6061/JsonUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Tiles/Tile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ItemPool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Questions/CategoryService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/Tiles/FieldConstructor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/30ADF901-98BC-4C4B-8391-0C6FB1877998/52/09b0986f/Application.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Questions/QuestionsService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Zenject/Source/Main/DiContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/AnswerButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Questions/Answer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/QuestionCategory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestionCategory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TileFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TilePool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PoolObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/StartUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StartUp.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ScreensFactory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ItemPool.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AnswerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Data/questions.json" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestionData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Answer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestionsData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/QuestionsService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Question.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TileCategory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/TileManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/CategoryService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Tile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Questions/CategoryService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Questions/QuestionsService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Screens/MapScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ScoreWidget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ScoreService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainInstaller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ScreensService.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/AnswerButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Screens/QuestionScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Tiles/Tile.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Tiles/FieldConstructor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileManager.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2kRW54VKBprYH6MRoqg3vkaaa9q" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="6756">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="6756" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6995055e-1ff4-44f1-95bd-d62b04f2e188" name="Default Changelist" comment="" />
+      <created>1723246683772</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723246683772</updated>
+      <workItem from="1723246687873" duration="16124000" />
+      <workItem from="1723458674347" duration="32026000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state width="471" height="466" key="DebuggerActiveHint" timestamp="1723561492254">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="471" height="466" key="DebuggerActiveHint/0.0.1920.1032@0.0.1920.1032" timestamp="1723561492254" />
+    <state width="1877" height="344" key="GridCell.Tab.0.bottom" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.0.center" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.0.left" timestamp="1723563372307">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372307" />
+    <state width="1877" height="344" key="GridCell.Tab.0.right" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.2.bottom" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.2.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.2.center" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.2.center/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.2.left" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.2.left/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.2.right" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.2.right/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.3.bottom" timestamp="1723563372311">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.3.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372311" />
+    <state width="1877" height="344" key="GridCell.Tab.3.center" timestamp="1723563372311">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.3.center/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372311" />
+    <state width="1877" height="344" key="GridCell.Tab.3.left" timestamp="1723563372310">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.3.left/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372310" />
+    <state width="1877" height="344" key="GridCell.Tab.3.right" timestamp="1723563372311">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.3.right/0.0.1920.1032@0.0.1920.1032" timestamp="1723563372311" />
+    <state x="517" y="253" width="885" height="526" key="find.popup" timestamp="1723560916495">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="517" y="253" width="885" height="526" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1723560916495" />
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup" timestamp="1723463768473">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="623" y="223" width="672" height="678" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1723463768473" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileManager.cs</url>
+          <line>59</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileManager.cs" initialLine="59">
+            <startOffsets>
+              <option value="2168" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2184" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileManager.cs</url>
+          <line>60</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileManager.cs" initialLine="60">
+            <startOffsets>
+              <option value="2230" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2240" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileManager.cs</url>
+          <line>62</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Scripts/UI/Tiles/TileManager.cs" initialLine="62">
+            <startOffsets>
+              <option value="2327" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2373" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="questions" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
