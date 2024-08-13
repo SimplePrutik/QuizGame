@@ -14,7 +14,7 @@ public class QuestionsService
 
     private void ExtractData()
     {
-        string path = Application.dataPath + "/Data/questions.json";
+        string path = Application.streamingAssetsPath + "/questions.json";
         if (File.Exists(path))
         {
             string json = File.ReadAllText(path);
@@ -22,7 +22,7 @@ public class QuestionsService
         }
         else
         {
-            Debug.LogError("Cannot find file!");
+            Debug.LogError("Cannot find file! " + path);
         }
     }
 }

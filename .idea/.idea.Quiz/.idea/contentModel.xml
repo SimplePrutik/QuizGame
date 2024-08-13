@@ -8,9 +8,7 @@
       <e p="Assembly-CSharp-firstpass.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
-        <e p="Data" t="Include">
-          <e p="questions.json" t="Include" />
-        </e>
+        <e p="Data" t="Include" />
         <e p="Plugins" t="Include">
           <e p="UniRx" t="Include">
             <e p="Examples" t="Include">
@@ -1337,6 +1335,9 @@
               <e p="TilePool.cs" t="Include" />
             </e>
           </e>
+        </e>
+        <e p="StreamingAssets" t="Include">
+          <e p="questions.json" t="Include" />
         </e>
         <e p="TextMesh Pro" t="Include">
           <e p="Documentation" t="Include" />
