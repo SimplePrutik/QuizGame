@@ -1,28 +1,28 @@
-﻿using System.Collections.Generic;
+﻿using System.Collections;
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using UnityEngine;
+using UnityEngine.Networking;
 
 public class QuestionsService
 {
     public List<Question> QuestionsData;
     
-    public QuestionsService()
+    public IEnumerator ExtractData()
     {
-        ExtractData();
-    }
+        string path = Path.Combine(Application.streamingAssetsPath, "questions.json");
+        UnityWebRequest www = UnityWebRequest.Get(path);
+        yield return www.SendWebRequest();
 
-    private void ExtractData()
-    {
-        string path = Application.streamingAssetsPath + "/questions.json";
-        if (File.Exists(path))
+        if (www.result == UnityWebRequest.Result.Success)
         {
-            string json = File.ReadAllText(path);
-            QuestionsData = JsonUtility.FromJson<QuestionsData>(json).questions.ToList();
+            string fileContents = www.downloadHandler.text;
+            QuestionsData = JsonUtility.FromJson<QuestionsData>(fileContents).questions.ToList();
         }
         else
         {
-            Debug.LogError("Cannot find file! " + path);
+            Debug.LogError("Failed to load file: " + www.error);
         }
     }
 }
